@@ -9,8 +9,9 @@ Repositório para armazenar resumos sobre git e github di curso versionamento de
 ## 💻 Resumos das Aulas
 
 | Aulas | Resumo |
-|.......|.........|
-| Gravando Alterações no Repositório local | [Resumos]()
+|------|---------|
+| Aula 01 | [Resumos]()
+| Aula 02 | [Resumos]()
 
 ```
 git init
